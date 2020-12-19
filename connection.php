@@ -1,0 +1,4 @@
+<?php
+
+$connect= mysqli_connect("localhost","root","","crud") or die("Connection failed");
+?>
